@@ -1,5 +1,5 @@
-tensorflow
-opencv-python-headless
-streamlit
-panda
-numpy
+tensorflow>=2.15.0
+opencv-python
+streamlit>=1.30.0
+pandas>=2.0.0
+numpy>=1.24.0
