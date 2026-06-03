@@ -1,0 +1,13 @@
+# Ignore datasets (too large for GitHub)
+data/
+
+# Ignore local trained models if they exceed 100MB 
+# (Optional: Only ignore if you plan to use Git LFS)
+# models/
+
+# Ignore Python cache and environment files
+__pycache__/
+*.pyc
+.venv/
+.streamlit/
+mood_history.csv
